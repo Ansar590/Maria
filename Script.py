@@ -11,7 +11,7 @@ Or Add Me In you' Group As "ADMIN"
 • <b>LIB : 𝙿Y𝚁𝙾G𝚁A𝙼 2.0.35</b>
 • <b>LANGUAGE : 𝙿Y𝚃𝙷Ø𝙽 3.8.7</b>
 • <b>REPO : <a href=https://github.com/EvamariaTG>Click Me</a></b>
-• <b>BOT-VERSION : (2022.12.24)[t.me/MeenukuttyRobot]</b>
+• <b>BOT-VERSION : <a href=https://t.me/MeenukuttyRobot>2022.12.24</a></b>
 """
     BOT_TXT = """ 
 
