@@ -7,13 +7,11 @@ Or Add Me In you' Group As "ADMIN"
     HELP_TXT = """𝙷𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂"""
     ABOUT_TXT = """
-•>PROGRAMER:<a href=https://t.me/illuzX3>𝐈𝐥𝐥𝐮𝐳𝕏</a>
-•>LIBRARY: 𝙿Y𝚁𝙾G𝚁A𝙼 2.0.35
-•>LANGUAGE: 𝙿Y𝚃𝙷Ø𝙽 3.8.7
-•>DATABASE: M𝙾𝙽G𝙾 D𝙱
-•>HOSTING: HᴇRᴏᴋᴜ
-•>BASE REPO : <a href=https://github.com/EvamariaTG>Eᴠᴀ Mᴀʀɪᴀ</a>
-•>BUILD VERSION :> 2023.1.8 *BETA</a>
+• <b>CØD BY : <a href=https://t.me/illuzX3>𝐈𝐥𝐥𝐮𝐳𝕏</a></b>
+• <b>LIB : 𝙿Y𝚁𝙾G𝚁A𝙼 2.0.35</b>
+• <b>LANGUAGE : 𝙿Y𝚃𝙷Ø𝙽 3.8.7</b>
+• <b>REPO : <a href=https://github.com/EvamariaTG>Click Me</a></b>
+• <b>BOT-VERSION : (2022.12.24)[t.me/MeenukuttyRobot]</b>
 """
     BOT_TXT = """ 
 
